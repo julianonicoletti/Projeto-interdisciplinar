@@ -1,6 +1,6 @@
 # Projeto-interdisciplinar
 
-    Projeto para criação de um aplicativo para ajuda com manutenção automotiva com funcionalidades como pesquisa de preços de combustíveis, pesquisa de preços de manutenções preventivas, acesso a banco de dados de milhares de veículos com informações sobre reposição de peças.
+Projeto para criação de um aplicativo para ajuda com manutenção automotiva com funcionalidades como pesquisa de preços de combustíveis, pesquisa de preços de manutenções preventivas, acesso a banco de dados de milhares de veículos com informações sobre reposição de peças.
 
 ## Funcionalidades
 
